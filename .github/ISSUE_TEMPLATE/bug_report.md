@@ -22,7 +22,7 @@ If applicable, add screenshots to help explain your problem:
 **Class Related Issues Report**  
 - Class name:  
 - Spell/Ability:  
-- Issue at hand:
+- Issue you're facing:
 
 **Additional context**  
 Add any other context about the problem here:
